@@ -25,6 +25,7 @@
   <option value="1">Sheet 1</option>
   <option value="2">Sheet 2</option>
   <option value="3">Sheet 3</option>
+  <option value="3">Sheet 3</option>
 </select><br><br>
 
 <button type="submit" formaction="./uploadData" formmethod="post">Upload Data</button>
