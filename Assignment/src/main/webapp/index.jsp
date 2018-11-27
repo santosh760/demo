@@ -12,5 +12,6 @@ legend {
     String path=application.getContextPath();    
     response.sendRedirect(path+"/home");
 %>
+    <Welcome Santy>
 </body>
 </html>
