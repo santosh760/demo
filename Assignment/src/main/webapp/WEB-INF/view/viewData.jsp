@@ -28,7 +28,8 @@
                                 <th>Name</th>
                                 <th>Designation</th>
                                 <th>Department</th>
-                                <th>Salary</th>                                
+                                <th>Salary</th> 
+                                <th>Salary1</th>                                
                             </tr>
                             <%
                            int i=0;
